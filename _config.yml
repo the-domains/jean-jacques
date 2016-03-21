@@ -1,28 +1,18 @@
-name: Jean-Jacques
-favicon: null
-layout_spectrum: 0.48884570552036166
-typography_spectrum: 0.7003826207946986
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#C8C0A0'
+    - '#080820'
+    - '#A06058'
+    - '#3333CC'
+    - '#F0F0D0'
   brandStrength: 0.9573542480356991
   lightness: 0.2435595749411732
-  saturation: 0.38934004376642406
   rhythmicContrast: 0.6508951263967901
+  saturation: 0.38934004376642406
+cta: {}
+layout_spectrum: 0.201858
+name: Jean-Jacques
+opengraph: {}
 purpose: []
+typography_spectrum: 0.7003826207946986
